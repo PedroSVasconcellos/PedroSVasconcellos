@@ -27,6 +27,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
+<!--
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -35,7 +36,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedrosvasconcellos&show_icons=true&theme=vision-friendly-dark" alt="pedrosvasconcellos's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvasconcellos&layout=compact&theme=vision-friendly-dark" alt="pedrosvasconcellos's most languages"/>
 </p>
-
+-->
 <!-- 
 <br><br>
 
