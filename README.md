@@ -1,11 +1,11 @@
 <h1 align="left">Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">sou Pedro Vasconcellos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrosvasconcellos&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Designer & Full Stack Student p/ transição de carreira
+- 🔥 Designer & Front-End student em transição de carreira
 
 - 👨‍🎓 Graduado em Design Gráfico 
 
-- 💬 Cursando o programa Explorer da Rocketseat
+- 💬 Cursando o programa Explorer da Rocketseat (Full Stack)
 
 - 👨‍💻 Mais em [pedrovas.com](https://pedrovas.com)
 
